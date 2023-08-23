@@ -1,0 +1,7 @@
+{
+  "name": "ionicAppFirebase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
